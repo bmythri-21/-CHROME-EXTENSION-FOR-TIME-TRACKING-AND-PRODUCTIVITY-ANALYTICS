@@ -47,3 +47,7 @@ Whether you're a freelancer, student, or remote worker, this tool helps you take
 - **Extension APIs**: Chrome Extension API (Manifest v3)
 - **Storage**: Chrome local storage (or IndexedDB)
 - **Charts**: Chart.js or D3.js for visualizations
+
+  # output
+
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d569a96f-fc5e-4b5b-b6cb-1b98f4b14f55" />
